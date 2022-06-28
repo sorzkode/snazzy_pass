@@ -16,4 +16,4 @@ Please note: This was my first Python project that was meant for personal educat
 I may add more features as I go and plan on releasing a CLI version of it. Since there aren't enough password generators out there ;P
 
 Sincerely, 
-sorzcode@proton.me
+sorzkode
