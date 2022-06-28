@@ -1,5 +1,7 @@
 # snazzy_pass
 
+![alt text](https://github.com/sorzkode/snazzy_pass/blob/main/spsc.png?raw=true)
+
 A simple random password generator built with tkinter GUI
 
 Download and run snazzy_pass.py to run the program
